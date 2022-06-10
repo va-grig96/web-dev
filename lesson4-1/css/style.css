@@ -1,0 +1,27 @@
+* {
+	padding: 5px;
+	margin: 0;
+}
+
+div {
+	margin: 20px;
+	padding: 15px;
+}
+
+.h-2 {
+	background-color: #ff0;
+	
+}
+
+.colums {
+	display: flex;
+}
+
+.h-3 {
+	background-color: #0f0;
+	min-width: 45%;
+}
+
+h1, h2, p {
+	color: #00f;
+}
